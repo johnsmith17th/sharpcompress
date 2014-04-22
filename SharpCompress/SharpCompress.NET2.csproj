@@ -78,7 +78,7 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>SharpCompress.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>SharpCompress.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="LinqBridge">
@@ -376,6 +376,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="SharpCompress.pfx" />
+    <None Include="SharpCompress.snk" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>sharpcompress</id>
-        <version>0.10.3</version>
+        <id>p3-sharpcompress</id>
+        <version>0.10.4</version>
         <title>SharpCompress - Pure C# Decompression/Compression</title>
-        <authors>Adam Hathcock</authors>
-        <owners>Adam Hathcock</owners>
+        <authors>Adam Hathcock, Patrik Pfaffenbuaer</authors>
+        <owners>Adam Hathcock, Patrik Pfaffenbuaer</owners>
         <licenseUrl>http://sharpcompress.codeplex.com/license</licenseUrl>
         <projectUrl>https://github.com/adamhathcock/sharpcompress</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
